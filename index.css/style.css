@@ -1,0 +1,48 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.container{
+    height: 800px;
+    width: 100%;
+    float: left;
+    display: flex;
+    border-radius: 20%;
+}
+.avarta{
+    width: 200px;
+    height:250px;
+    border-radius: 20%;
+}
+.left_item{ 
+    background-color: black;
+    width: 20%;
+    border: 20%;
+   border-right: 2px solid white;
+   
+
+
+}
+.right_item{
+    background-color:cadetblue;
+    width:80%;
+
+}
+h3{
+   color: aqua; 
+}
+h4{color: aliceblue;}
+h5{
+    color: aliceblue;
+}
+.middle { margin: 17%;
+
+}
+.right_item {
+    padding: 3%;
+
+}
+.gach_chan{
+    border-bottom: 3px solid aqua;
+}

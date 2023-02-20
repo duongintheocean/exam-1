@@ -37,6 +37,7 @@
 }
 .information{
     height: 5%;
+    border-bottom: 5px solid black;
 }
 #a{
    margin-top: 1%;
@@ -55,10 +56,10 @@
     margin-left: 10%;
 }
 .muctieunghenghiep{
-    font-size: 20px;
+    font-size: 15px;
 }
 .skill{
-    font-size: 20px;
+    font-size: 15px;
 }
 pre{
     border-bottom: 5px solid black;
